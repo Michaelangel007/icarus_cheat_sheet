@@ -1,3 +1,5 @@
+#  Icarus Cheat Sheet
+
 * Savegame (Credits) file path: `%LOCALAPPDATA%\Icarus\Saved\PlayerData\#\Profile.json`
 
 * Press `J` to bring up the Codex in the space station OR on the planet surface!
