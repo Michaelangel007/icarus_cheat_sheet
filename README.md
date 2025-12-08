@@ -76,7 +76,26 @@
 |Steel Arrow      | -- | -- | 1 Steel     | -- | 1 Epoxy, 5 Sticks                                |
 |Steel Bolt       |  1 | -- | 1 Steel     | -- |                                                  |
 
+# [Biofuel Composter Recipes](https://icarus.fandom.com/wiki/Biofuel#Recipes)
+
+* _Biofuel Can_ holds 10,000 fuel or 10L.
+* _Portable Biofuel Tank_ holds 150,000 fuel or 150L.
+
+|10L Amount| Mat.        |Tree Sap|   |150L Amount| Mat.        |Tree Sap|
+|---------:|:------------|-------:|:-:|----------:|:------------|-------:|
+|     1000 | Fiber       |    100 |   |    15,000 | Fiber       |  1,500 |
+|      500 | Stick       |    100 |   |     7,500 | Stick       |  1,500 |
+|      100 | Wood        |    100 |   |     1,500 | Wood        |  1,500 |
+|      200 | Raw Meat    |    100 |   |     3,000 | Raw Meat    |  1,500 |
+|      100 | Cook Meat   |    100 |   |     1,500 | Cook Meat   |  1,500 |
+|      200 |Spoiled Meat |    100 |   |     3,000 |Spoiled Meat |  1,500 |
+|      200 |Spoiled Plant|    100 |   |     3,000 |Spoiled Plant|  1,500 |
+|     1000 | Wheat       |    100 |   |    15,000 | Wheat       |  1,500 |
+|       40 | Guano       |     20 |   |       600 | Guano       |    300 |
+|       34 |Vegetable Oil|     -- |   |       500 |Vegetable Oil|     -- |
+
 ---
 
 Copyleft {C} 2025, Michaelangel007
-Last updated: Dec 7, 2025.
+
+Last updated: Dec 8, 2025.
