@@ -267,6 +267,34 @@
 | ? |Shotgun                       |26 Steel Ingots    |  4  | 1 Cured Leather, 12 Refind Wood, 10 Steel Screw      |
 |Lev|Recipe                        | Ingot(s)          |Epoxy|Misc.                                                 |
 
+# [Mortar and Pestle](https://icarus.fandom.com/wiki/Mortar_and_Pestle)
+|Lev| Output           | Mat. #1        | Mat. #2     | Misc. |
+|:-:|:-----------------|:---------------|:------------|:------|
+|  ?| Beeswax          | 2 Honeycomb    | -           | |
+|  ?| Butter           | 3 Cream        | 3 Salt      | |
+|  ?| Carbon Paste     | 1 Alum. Ingot  | 2 Epoxy     | 4 Organic Resin, 1 Silicia Ore |
+| 10| Crushed Bone     | 2 Bone         |--           | |
+| 10| Crushed Bone     | 1 Mammoth Tusk |--           | |
+| 10| Epoxy            | 2 Sulfur       | 4 Tree Sap  | |
+| 10| Epoxy            | 4 Crushed Bone |--           | |
+|  ?| Flour            |10 Wheat        |--           | |
+|  ?| Gunpowder        | 3 Charcoal     | 1 Sulfur    | |
+|  ? | Honey           | 2 Honeycomb    |--           | |
+| 10| Organic Resin    | 1 Wood         | 1 Oxite     | |
+|  ?| Paints           | 5 Charcoal     | 5 Tea       | |
+|  ?| Paints           | 5 Gorse Flower | 5 Wild Berry| |
+|  ?| Paints           | 5 Coffee Bean  | 5 Tree Sap  | |
+|  ?| Poison Paste     | 2 Spoiled Meat | 1 Sulfur    | |
+| 10| Steel Bloom      | 6 Iron Ore     | 1 Coal Ore  | |
+| 10| Steel Bloom      | 3 Iron Ingots  | 1 Coal Ore  | |
+| 10| Steel Bloom      | 3 Iron Ingots  |20 Charcoal  | |
+|  ?| Sugar Cubes      | 5 Sugar Cane   |--           | |
+| 10| Tree Sap         | 4 Sticks       |--           | |
+| 10| Tree Sap         | 1 Wood         |--           | |
+|  ?| Vegetable Oil    |15 Seed         |--           | |
+|  ?|Volatile Substance| 2 Gunpowder    | 2 Oxite     | 2 Spoiled Plants |
+|Lev| Output           | Mat. #1        | Mat. #2     | Misc. |
+
 ---
 
 Copyleft {C} 2025, Michaelangel007
