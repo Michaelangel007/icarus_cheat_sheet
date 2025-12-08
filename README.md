@@ -177,6 +177,96 @@
 | Sulfur (5x)          | 1 |
 | Supercooled Ice (5x) | 1 |
 
+# [Decoration Bench](https://icarus.fandom.com/wiki/Decoration_Bench)
+
+# [Fabricator](https://icarus.fandom.com/wiki/Fabricator)
+
+# [Machining Bench](https://icarus.fandom.com/wiki/Machining_Bench) (sans Guns & Ammo)
+|Lev|Recipe                   | Ingot(s)        |Epoxy|Misc.|
+|:-:|:------------------------|:----------------|----:|:----|
+|  ?|Advanced Creature Deterrent|20 Alum. Ingots|  -- |15 Carbon Fiber, 20 Electronics, 10 Glass, 30 Steel Screw|
+|  ?|Advanced Masonry Bench   | --              |  15 | 80 Iron Nail, 25 Refined Wood, 150 Stone          |
+|  ?|Advanced Textiles Bench  |20 Iron Ingots   |   8 |  4 Rope,  40 Steel Screw, 6 Wood                  |
+| 20|Alteration Bench         |24 Iron Ingots   |   6 | 10 Refined Wood, 6 Rope, 40 Copper Nails          |
+|   |Anvil Bench              |40 Iron Ingots   |  -- | 10 Stone, 20 Wood                                 |
+| 20|Biofuel Can              |25 Iron Ingots   |  -- | |
+|  ?|Biofuel Chimney Cap      | 4 Iron, 2 Steel |   4 | |
+|  ?|Biofuel Chimney Extension| 4 Iron Ingots   |   2 | |
+| 20|Biofuel Composter        |20 Iron Ingots   |  -- | 8 Copper Ingots, 12 Concreate Mix, 20 Steel Screw |
+| 20|Biofuel Deep-Mining Drill|12 Steel Ingots  |  12 | 10 Copper Ingots, 10 Electronics, 50 Copper Wire  |
+|  ?|Biofuel Extractor        |15 Iron Ingots   |  -- | 10 Copper Nail, 25 Gold Wire                      |
+|  ?|Biofuel Fireplace        |22 Iron, 6 Steel |  14 |  4 Concrete Mix, 8 Steel Screw                    |
+|  ?|Biofuel Lamp             | 8 Alum. Ingots  |   4 | 12 Glass, 4 Rope                                  |
+| 20|Biofuel Oxite Dissolver  |20 Steel Ingot   |  12 |  4 Glass, 20 Electronics, 50 Copper Wire          |
+|  ?|Biofuel Radar            |12 Iron Ingots   |  -- | 50 Copper Wire, 2 Glass, 50 Gold Wire, 8 Iron Nail|
+|  ?|Biofuel Stove            |24 Steel Ingots  |  20 |  4 Copper Nail, 30 Refined Wood, 8 Steel Screw    |
+|  ?|Biofuel Water Pump       |16 Steel Ingots  |  12 | 16 Copper Wire, 4 Electronics                     |
+|  ?|Black Wolf Claw Trap     | 6 Steel Ingots  |  -- | Black Wolf Fur, 8 Black Wolf Tooth, Electronics, 8 Gold Wire|
+|  ?|Brazier                  |20 Iron, 4 Copper|  -- | |
+|  ?|Butchery Bench           |20 Iron, 10 Steel|  -- | 20 Copper Nail, 30 Refined Wood                   |
+|  ?|Cont4ct Device           |15 Iron Ingots   |  -- | 8 Rope, 10 Wood                                   |
+|  ?|Canteen                  | 8 Steel Ingots  |  -- | Cured Leather                                     |
+|  ?|Carpentry Bench          |--               |  -- |120 Copper Nail, 12 Rope, 80 Wood                  |
+|  ?|Cave Scanner             |10 Iron Ingots   |  -- | 25 Copper Wire, 25 Gold Wire, 12 Iron Nail        |
+| 20|Cement Mixer             |20 Iron Ingots   |  -- | 50 Refined Wood, 40 Stone, 8 Rope, 8 Iron Nail    |
+|  ?|Chimney Cap              |--               |  -- | 40 Stone, 20 Wood                                 |
+|  ?|Chimney Cap Half         |--               |  -- | 30 Stone, 15 Wood                                 |
+|  ?|Chimney Extension        |--               |  -- | 40 Stone, 20 Wood                                 |
+|  ?|Concrete Door            |2 Plat., 6 Steel |  -- |  4 Steel Screw                                    |
+| 20|Dehumidifier             |15 Steel Ingots  |  12 |  4 Glass, 20 Electronics, 50 Copper Wire          |
+| 20|Concrete Furnace         |12 Iron Ingots   |  12 |  8 Rope, 20 Concrete Mix                          |
+|  ?|Cooking Station          | 4 Iron Ingots   |  -- |  8 Fiber, 8 Stick, 24 Stone                       |
+|  ?|Copper Wire (5x)         | 1 Copper Ingot  |  -- | |
+|  ?|Gold Wire (5x)           | 1 Gold Ingot    |  -- | |
+| 20|Electronics              |--               |   2 |  6 Gold Wire, 15 Copper Wire, 2 Organic Resin     |
+| 30|Fabricator               |40 Alum. Ingots  |  -- | 30 Electronics, 30 Concrete, 8 Carbon Fiber, 30 Steel Screw |
+| 20|Kitchen Bench            | 8 Iron Ingots   |  20 | 20 Copper Nail                                    |
+| 20|Oxygen Tank              |20 Steel Ingots  |   4 | |
+|  ?|Wood Crop Plot           | --              |  -- | 20 Dirt, 10 Sulfur, 8 Wood                        |
+|Lev|Recipe                   | Ingot(s)        |Epoxy|Misc.|
+
+# [Machining Bench](https://icarus.fandom.com/wiki/Machining_Bench) (only Guns & Ammo)
+|Lev|Recipe                        | Ingot(s)          |Epoxy|Misc.                                                 |
+|:-:|:-----------------------------|:------------------|----:|:-----------------------------------------------------|
+| ? |12-Gauge Buckshot Shell (5x)  | --                |   1 | 12-Gauge Casing, 2 Copper Nail, Gunpowder            |
+| ? |12-Gauge Casing (5x)          | 1 Copper Ingot    |   2 | |
+| ? |12-Gauge Cold Steel Shell (5x)| 1 Cold Steel Ingot|  -- | 5 12-Gauge Buckshot Shell                            |
+| ? |12-Gauge Explosive Shell (5x) | --                |  -- | 5 12-Gauge Buckshot Shell, Volatile Substance        |
+| ? |12-Gauge Miasmic Shell (5x)   | --                |  -- | 5 12-Gauge Buckshot Shell, Distilled Miasmic Coating |
+| ? |12-Gauge Obsidian Shell (5x)  | 1 Shaped Obsidian |  -- | 5 12-Gauge Buckshot Shell                            |
+| ? |12-Gauge Slug (1x)            | --                |  -- | 5 12-Gauge Buckshot Shell, Gunpowder, Platinum Sheath|
+| ? |5.56mm Armor Piercing Round (1x)| --              | --  | 5.56mm Round, Platinum Sheath                        |
+| ? |5.56mm Cold Steel Round (5x)  | 1 Cold Steel Ingot| --  | 5 5.56mm Round                                       |
+| ? |5.56mm Explosive Round (5x)   | --                | --  | 5 5.56mm Round, Volatile Substance                   |
+| ? |5.56mm Incendiary Round (1x)  | --                | --  |   5.56mm Round, 5 Gunpowder                          |
+| ? |5.56mm Miasmic Round (5x)     | --                | --  | 5 5.56mm Round, Distilled Miasmic Coating            |
+| ? |5.56mm Obsidian Round (5x)    | 1 Shaped Obsidian | --  | 5 5.56mm Round                                       |
+| ? |5.56mm Round (2x)             | --                | --  |  2 Ammo Casing,  3 Gunowder                          |
+| ? |5.56mm Round (10x)            | --                | --  | 10 Ammo Casing, 15 Gunpowder                         |
+| ? |7.62mm Amor Piercing Round (1x)| --               | --  | 7.62mm Round, Platinum Sheath                        |
+| ? |7.62mm Cold Steel Round (5x)  | 1 Cold Steel Ingot| --  | 5 7.62mm Round                                       | 
+| ? |7.62mm Explosive Round (5x)   | --                | --  | 5 7.62mm Round, Volatile Substance                   |
+| ? |7.62mm Incendiary Round (5x)  | --                | --  | 5 7.62mm Round, 5 Gunpowder                          |
+| ? |7.62mm Miasmic Round (5x)     | --                | --  | 5 7.62mm Round, Distilled Miasmic Coating            |
+| ? |7.62mm Obsidian Round (5x)    | 1 Shaped Obsidian | --  | 5 7.62mm Round                                       |
+| ? |7.72mm Round (1x)             | --                | --  | Ammo Casing, 2 Gunpowder                             |
+| ? |7.72mm Round (5x)             | --                | --  | 5 Ammo Casing, 10 Gunpowder                          |
+| ? |9mm Armor Piercing Round (1x) | --                | --  | 9mm Round, Platinum Sheath                           |
+| ? |9mm Cold Steel Round (5x)     | 1 Cold Steel Ingot| --  | 5 9mm Round                                          |
+| ? |9mm Explosive Round (5x)      | --                | --  | 5 9mm Round, Volatile Substance                      |
+| ? |9mm Incendiary Round (5x)     | --                | --  | 5 9mm Round, 5 Gunpowder                             |
+| ? |9mm Miasmic Round (5x)        | --                | --  | 5 9mm Round, Distilled Miasmic Coating               |
+| ? |9mm Obsidian Round (5x)       | 1 Shaped Obsidian | --  | 5 9mm Round                                          |
+| ? |9mm Round (1x)                | --                | --  | Ammo Casing, Gunpowder                               |
+| ? |9mm Round (5x)                | --                | --  | 5 Ammo Casing, 5 Gunpowder                           |
+| ? |Ammo Casing (5x)              | 1 Iron Ingot      | --  | |
+| ? |Bolt Action Rifle             |40 Steel Ingots    |  4  | Cured Leather, 12 Refined Wood, 10 Steel Screw       |
+| ? |One-Shot Pistol               |20 Iron Ingots     | --  |10 Copper Nail, 15 Leather, 6 Refined Wood, 4 Tree Sap|
+| ? |Rusty Shotgun                 |10 Steel Ingots    | --  |10 Leather, 10 Tree Sap, 15 Wood                      |
+| ? |Semi-Automatic Pistol         |20 Steel Ingots    |  4  | 5 Cured Leather, 6 Refined Wood, 8 Steel Screw       |
+| ? |Shotgun                       |26 Steel Ingots    |  4  | 1 Cured Leather, 12 Refind Wood, 10 Steel Screw      |
+|Lev|Recipe                        | Ingot(s)          |Epoxy|Misc.                                                 |
+
 ---
 
 Copyleft {C} 2025, Michaelangel007
