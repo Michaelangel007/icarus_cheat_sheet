@@ -94,6 +94,24 @@
 |       40 | Guano       |     20 |   |       600 | Guano       |    300 |
 |       34 |Vegetable Oil|     -- |   |       500 |Vegetable Oil|     -- |
 
+# [Cement Mixer](https://icarus.fandom.com/wiki/Cement_Mixer)
+| Recipe               |Concrete Mix|Steel Rebar|Steel Screw|Misc.|
+|:---------------------|-----------:|----------:|----------:|:----|
+| Concrete Beam        |          2 |         8 |         2 | |
+| Concrete Floor       |          4 |        10 |         4 | |
+| Concrete Frame       |          8 |        20 |        10 | |
+| Concrete Halfpieces  |          2 |         5 |         2 | |
+| Concrete Halfpitches |          2 |         5 |         2 | |
+| Concrete Mix         |         -- |        -- |        -- | 1 Tree Sap, 8 Stone, 4 Silica Ore |
+| Concrete Railing     |         -- |        -- |         6 | 2 Alum. Ore, 2 Wood   |
+| Concrete Railing     |         -- |        -- |         6 | 2 Alum. Ingots, 2 Wood |
+| Concrete Railing Gate|         -- |        -- |         6 | 2 Alum. Ore, 2 Wood   |
+| Concrete Railing Gate|         -- |        -- |         6 | 2 Alum. Ingots, 2 Wood |
+| Concrete Ramp/Stairs |          4 |        12 |         4 | |
+| Concrete Wall        |          4 |        10 |         4 | |
+| Concrete Wall Angled |          2 |         5 |         2 | |
+| Heavy Trapdoor       |         -- |        -- |         4 | 4 Epoxy, 12 Iron Ingots |
+
 ---
 
 Copyleft {C} 2025, Michaelangel007
