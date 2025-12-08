@@ -389,6 +389,38 @@
 
 ---
 
+# Workshop (Research)
+
+To unlock everything in the Workshop you need to spend:
+
+| Category  |   Ren|Exotics|Stabilized| Biomass|
+|:----------|-----:|------:|---------:|-------:|
+|Envirosuits| 3,150|    300|       -- |     -- |
+|Armors     | 4,250|  2,000|       -- |     -- |
+|Backpacks  | 2,300|  2,250|       -- |     -- |
+|Modules    | 1,200|    435|      500 |     -- |
+|Gadgets    | 1,975|    700|      400 |     -- |
+|Axes       | 1,675|  2,250|    1,250 |     -- |
+|Pickaxes   | 2,675|  2,500|    1,200 |     -- |
+|Knives     | 1,975|  2,250|    1,250 |     -- |
+|Spears     | 2,675|  2,500|    1,250 |     -- |
+|Sickles    |   375|  1,000|       -- |     -- |
+|Hammers    |   975|     --|       -- |     -- |
+|Bows       | 4,850|    500|    1,050 |     -- |
+|Crossbows  | 1,800|    250|      500 |     -- |
+|Firearms   | 4,000|  1,500|       -- |     25 |
+|Deployables| 1,525|     --|       -- |     -- |
+|Farming    | 1,900|    750|       -- |     -- |
+|Consumables| 4,575|    750|       -- |     -- |
+|Extraction |   150|    500|       -- |     -- |
+|Resources  |   725|     25|       60 |     -- |
+|Creatures  | 8,000|  4,000|       -- |     -- |
+|Norex      |    --|    500|      300 |     80 |
+|===========|======| ======|    ======|  ======|
+|**Total**  |50,750| 24,960|    7,760 |    105 |
+
+---
+
 Copyleft {C} 2025, Michaelangel007
 
 Last updated: Dec 8, 2025.
