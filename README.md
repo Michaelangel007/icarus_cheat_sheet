@@ -295,6 +295,29 @@
 |  ?|Volatile Substance| 2 Gunpowder    | 2 Oxite     | 2 Spoiled Plants |
 |Lev| Output           | Mat. #1        | Mat. #2     | Misc. |
 
+# [Herbalism Bench](https://icarus.fandom.com/wiki/Herbalism_Bench)
+|Lev|Recipe                      |Charcoal|Organic Resin|Tree Sap|Yeast|Reed|Lily| Misc.                                      |
+|:-:|:---------------------------|-------:|------------:|-------:|----:|----|----|:-------------------------------------------|
+| ? |Anti-Parasitic              |      3 |           1 |        |     |  1 |    |                                            |
+| ? |Anti-Parasitic              |      3 |             |        |     |    |    | 3 Honeycomb                                |
+| ? |Anti-Poison                 |      3 |             |        |     |    |    | 1 Fiber, 1 Poison Paste                    |
+| ? |Antibiotic Tonic            |      3 |             |        |   1 |    |    | 1 Epoxy                                    |
+| ? |Antibiotic                  |      3 |             |        |     |    |    | 3 Honetcomb                                |
+| ? |Blood Thinning              |      3 |             |      1 |     |    |  1 |                                            |
+| ? |Flatbread Dough             |        |             |        |     |    |    | 3 Flour, Water                             |
+| ? |Garganutan Frenzy Tonic     |        |           1 |      1 |   1 |    |    | 2 Garganutan Tendon                        |
+| ? |Health Recovery Conc.       |        |             |        |     |    |    | 3 Bone, 3 Oxite, 2 Salt                    |
+| ? |Health Recovery Tonic       |        |             |      1 |   1 |    |  3 | 1 Flour                                    |
+| ? |Progenitive Fertalizer      |        |             |        |     |    |    |Basic Fertalizer, 1 Volatile Substance      |
+| ? |Progenitive Fertalizer      |        |             |        |     |    |    |Basic Fertalizer, 3 Inert Volatile Substance|
+| ? |Recovery Fertalizer         |        |             |        |     |    |    |Basic Fertailize, 3 Crushed Bone            |
+| ? |Resistanc Fertalizer        |        |             |        |     |    |    |Basic Fertalizer, 4 Oxite                   |
+| ? |Stamina Enhancement Tonic   |        |           1 |      1 |   2 |  3 |    |                                            |
+| ? |Strength Enhancement Tonic  |        |           2 |      1 |     |    |  2 | 2 Crushed Bone, 2 Wheat                    |
+| ? |Sustenance Enhancement Tonic|        |           2 |      1 |     |  1 |  1 | 2 Sponge                                   |
+| ? |Volatile Substance          |        |             |        |     |    |    | 2 Gunpowder, 2 Oxite, 2 Spoiled Plants     |
+|Lev|Recipe                      |Charcoal|Organic Resin|Tree Sap|Yeast|Reed|Lily| Misc.                                      |
+
 ---
 
 Copyleft {C} 2025, Michaelangel007
