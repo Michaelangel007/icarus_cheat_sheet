@@ -146,6 +146,37 @@
 | 10|Wall Torch         | -- |  -- |  4 | --  |    8  | 8 Sulphur, 8 Iron Ingot          |
 |  ?|Wood Composter     | -- |  -- | 25 | 10  |   --  | 5 Spoiled Plants, 5 Sulfur             |
 
+# [Concrete Furnace](https://icarus.fandom.com/wiki/Concrete_Furnace)
+| Recipe           | Material(s)    |
+|:-----------------|---------------:|
+| Alum. Ingot      | 1 Alum. Ore    |
+| Carbon Fiber     | 1 Carbon Paste |
+| Clay Brick (5x)  | 1 Clay         |
+| Cold Steel Ingot |1 Steel Ingot, 1 Super Cooled Ice |
+| Copper Ingot     | 2 Copper Ore   |
+| Glass            | 1 Silica       |
+| Glass            |10 Sand         |
+| Iron Ingot       | 2 Iron Ore     |
+| Platinum Ingot   | 5 Platinum Ore |
+| Refined Gold     | 2 Gold Ore     |
+| Scoria Brick (5x)| 1 Scoria       |
+| Shaped Obsidian  | 2 Obsidian     |
+| Steel Ingots     | 1 Steel Bloom  |
+| Titanium Ingot   | 5 Titanium Ore |
+| Wood             | 1 Frozen Wood  |
+
+| Recipe               |Frozen Ore|
+|:---------------------|---------:|
+| Alum. Ore (5x)       | 1 |
+| Coal (5x)            | 1 |
+| Copper Ore (5x)      | 1 |
+| Gold Ore (5x)        | 1 |
+| Obsidian (5x)        | 1 |
+| Scoria (5x)          | 1 |
+| Silica (5x)          | 1 |
+| Sulfur (5x)          | 1 |
+| Supercooled Ice (5x) | 1 |
+
 ---
 
 Copyleft {C} 2025, Michaelangel007
