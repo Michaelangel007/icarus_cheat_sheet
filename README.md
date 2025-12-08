@@ -112,6 +112,40 @@
 | Concrete Wall Angled |          2 |         5 |         2 | |
 | Heavy Trapdoor       |         -- |        -- |         4 | 4 Epoxy, 12 Iron Ingots |
 
+# [Crafting Bench](https://icarus.fandom.com/wiki/Crafting_Bench) (only Benches)
+
+|Lev|Recipe             |Rope|Stick|Wood|Stone|Leather|Misc.|
+|--:|:------------------|---:|----:|---:|----:|------:|:----------------------------------------|
+| 10|Anvil Bench        | -- |  -- | 20 | 10  |   --  | 40 Iron Ingots                          |
+|  ?|Basic Fishing Bench| 10 |  -- | 25 | --  |   --  |  12 Copper Nail, 5 Iron Ingot           |
+| 15|Carpentry Bench    | 12 |  -- | 80 | --  |   --  | 120 Copper Nail                         |
+|  ?|Cooking Station    | -- |   8 | -- | 24  |   --  | 8 Fiber, 4 Iron Ingot                   |
+| 10|Decoration Bench   | -- |  -- | 50 | 12  |   20  | 60 Fiber                                |
+| 10|Herbalism Bench    | -- |  20 | 50 | 12  |   --  | 60 Fiber                                |
+| 20|Machining Bench    | 24 |  -- | 20 | 12  |   --  |120 Iron Nails, 40 Iron Ingot, 10 Epoxy  |
+| 15|Masonary Bench     | 12 |  -- | 80 | --  |   12  |120 Iron Nails                           |
+|  ?|Potbelly Stove     | -- |  -- | -- | --  |   --  |  6 Copper Ingot, 10 Epoxy, 40 Iron Ingot|
+|  ?|Ranching Station   | 10 |  -- | 30 | --  |   20  | 10 Fur, 15 Iron Nail                    |
+|  ?|Salting Station    | -- |  -- | 50 | 25  |   --  | 25 Charcoal, 60 Fiber                   |
+|  ?|Skinning Bench     | -- |  -- | 50 | 12  |   20  | 60 Fiber                                |
+|  ?|Textiles Bench     | -- |  20 | 50 | 12  |   --  | 60 Fiber                                |
+|  ?|Trophy Bench       | 12 |  -- | 60 | --  |   --  | 50 Copper Nail                          |
+
+# [Crafting Bench](https://icarus.fandom.com/wiki/Crafting_Bench) (sans Benches)
+
+|Lev|Recipe             |Rope|Stick|Wood|Stone|Leather|Misc.|
+|--:|:------------------|---:|----:|---:|----:|------:|:------------------------|
+|  ?|Beehive            | -- |  -- | -- | --  |   --  | 25 Copper Nail, 10 Honeycomb, 30 Refined Wood |
+|  ?|Brazier            | -- |  -- | -- | --  |   --  |  4 Copper Ingots, 20 Iron Ingots |
+|  ?|Cont4ct Device     |  8 |  -- | 10 | --  |   --  | 15 Iron Ingots                   |
+| 10|Fireplace          | -- |  -- | 30 |120  |   --  |  --                              |
+| 10|Mortar and Pestle  | -- |  -- | -- | 12  |   --  | 4 Silica Ore                     |
+|  ?|Orbital Exchange   |  8 |  -- | 10 | --  |   --  | 7 Iron Ingots, 7 Copper Ingots   |
+|  ?|Rope               | -- |  -- | -- | --  |   --  | 12 Fiber                         |
+| 10|Stone Furance      | -- |   4 | 12 | 80  |   12  |  --                              |
+| 10|Wall Torch         | -- |  -- |  4 | --  |    8  | 8 Sulphur, 8 Iron Ingot          |
+|  ?|Wood Composter     | -- |  -- | 25 | 10  |   --  | 5 Spoiled Plants, 5 Sulfur             |
+
 ---
 
 Copyleft {C} 2025, Michaelangel007
