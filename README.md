@@ -318,6 +318,75 @@
 | ? |Volatile Substance          |        |             |        |     |    |    | 2 Gunpowder, 2 Oxite, 2 Spoiled Plants     |
 |Lev|Recipe                      |Charcoal|Organic Resin|Tree Sap|Yeast|Reed|Lily| Misc.                                      |
 
+# [Kitchen Bench](https://icarus.fandom.com/wiki/Kitchen_Bench)
+
+# [Textiles Bench](https://icarus.fandom.com/wiki/Textiles_Bench) (only Armor)
+| Recipe                   |Fiber| Fur|Leather|Rope| Misc.                |
+|:-------------------------|----:|---:|------:|---:|:---------------------|
+|Black Wolf Arm Armor      |  -- | 15*|     3 |  2 | 4 Black Wolf Tooth   |
+|Black Wolf Chest Armor    |  -- | 20*|     5 |  6 | 4 Black Wolf Tooth   |
+|Black Wolf Feet Armor     |  -- | 15*|     3 |  2 | 6 Black Wolf Tooth   |
+|Black Wolf Head Armor     |  -- | 10*|     3 |  4 | 4 Black Wolf Tooth, Black Wolf Vestige|
+|Black Wolf Legs Armor     |  -- | 16*|     4 |  6 | 4 Black Wolf Tooth   |
+|Brown Bear Arm Armor      |  -- | 15 |     3 |  2 |                      |
+|Brown Bear Chest Armor    |  -- | 20 |     5 |  6 |                      |
+|Brown Bear Feet Armor     |  -- | 15 |     3 |  2 |                      |
+|Brown Bear Head Armor     |  -- | 10 |     3 |  4 |Brown Bear Vestige    |
+|Brown Bear Leg Armor      |  -- | 16 |     4 |  6 |                      |
+|Caveworm Arms Armor       |  20 | -- |     4 | -- | 5 Bone,  8 Worm Scale|
+|Caveworm Chest Armor      |  40 | -- |    12 | -- |25 Bone, 28 Worm Scale|
+|Caveworm Feet Armor       |  20 | -- |     6 | -- | 5 Bone,  8 Worm Scale|
+|Caveworm Head Armor       |  20 | -- |    10 | -- | 5 Bone, 12 Worm Scale|
+|Caveworm Leg Armor        |  30 | -- |     9 | -- |15 Bone, 14 Worm Scale|
+|Fur Arms Armor            |  -- |  8 |     4 |  1 |                      |
+|Fur Chest Armor           |  -- | 24 |     8 |  4 |                      |
+|Fur Feet Armor            |  -- | 12 |     6 |  2 |                      |
+|Fur Head Armor            |  -- | 12 |     4 |  2 |                      |
+|Fur Legs Armor            |  -- | 18 |     8 |  3 |                      |
+|Ghillie Arms Armor        | 120 | -- |    -- |  1 | 4 Stick              |
+|Ghillie Chest Armor       | 160 | -- |    -- |  4 | 8 Stick              |
+|Ghillie Feet Armor        |  80 | -- |    -- |  2 | 6 Stick              |
+|Ghillie Head Armor        | 120 | -- |    -- |  2 | 2 Stick              |
+|Ghillie Leg Armor         | 160 | -- |    -- |  3 | 8 Stick              |
+|Heavy Obsidian Arm Armor  |  -- | -- |     2 |  2 | 2 Obsidian           |
+|Heavy Obsidian Chest Armor|  -- | -- |     2 |  2 | 2 Obsidian           |
+|Heavy Obsidian Feet Armor |  -- | -- |     2 |  4 | 1 Obsidian           |
+|Heavy Obsidian Head Armor |  -- | -- |     4 |  4 | 3 Obsidian           |
+|Heavy Obsidian Leg Armor  |  -- | -- |     2 |  2 | 2 Obsidian           |
+|Leather Arms Armor        |  40 | -- |     8 | -- |                      |
+|Leather Chest Armor       |  60 | -- |    24 | -- |                      |
+|Leather Feet Armor        |  20 | -- |    12 | -- |                      |
+|Leather Head Armor        |  40 | -- |    12 | -- |                      |
+|Leather Leg Armor         |  60 | -- |    18 | -- |                      |
+
+`/!\` \* Black Wolf Fur
+
+# [Textiles Bench](https://icarus.fandom.com/wiki/Textiles_Bench) (sans Armor)
+| Recipe                   |Vestige  | Mats. |
+|:-------------------------|:--------|:------|
+|Arctic Pelt               | --      | * Carcass                                   |
+|Arctic Pelt               | --      |30 Fiber, 20 Wool                            |
+|Cougar Rug                |Cougar   |20 Fiber, 20 Fur, 10 Leather                 |
+|Deer Rug                  |Deer     |20 Fiber, 20 Fur, 10 Leather                 |
+|Farmers Satchel           | --      | 7 Iron Nail, 30 Leather, 8 Rope             |
+|Fur Curtain Door          | --      |15 Fiber, 15 Fur, 5 Wood                     |
+|Fur Curtain Window        | --      |10 Fiber, 20 Fur, 5 Wood                     |
+|Hyena Rug                 |Hyena    |20 Fiber, 20 Fur, 10 Leather                 |
+|Leather Backpack          | --      |10 Fiber, 20 Leather, 8 Rope                 |
+|Leather Curtain Door      | --      |20 Fiber, 15 Leather, 5 Wood                 |
+|Medical Satchel           | --      | 5 Iron Nail, 20 Leather, 12 Rope            |
+|Rope                      | --      |12 Fiber                                     |
+|Rope                      | --      | 5 Leather                                   |
+|Rope                      | --      | 5 Wool                                      |
+|Simple Creature Deterrent | --      | 1 Cloth Arm Armor, 1 Cloth Head Armor, 10 Spoiled Meat, 20 Stone, 20 Tree Sap, 25 Wood|
+|Small Blue Pouch          | --      | 5 Iron Nail, 20 Leather, 5 Paints, 5 Rope   |
+|Small Green Pouch         | --      | 5 Iron Nail, 20 Leather, 5 Paints, 5 Rope   |
+|Small Pouch               | --      | 5 Iron Nail, 20 Leather,           5 Rope   |
+|Small Red Pouch           | --      | 5 Iron Nail, 20 Leather, 5 Paints, 5 Rope   |
+|Snow Wolf Rug             |Snow Wolf|20 Fiber, 20 Fur, 10 Leather                 |
+|Thick Woven Rug           | --      |100 Fiber, 10 Leather                        |
+|Wolf Rug                  |Wolf     |20 Fiber, 20 Fur, 10 Leather                 |
+
 ---
 
 Copyleft {C} 2025, Michaelangel007
