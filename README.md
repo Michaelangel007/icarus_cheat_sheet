@@ -179,6 +179,87 @@
 
 # [Decoration Bench](https://icarus.fandom.com/wiki/Decoration_Bench)
 
+## Decoration Bench (only default, Rustic)
+|Lev|Recipe                      |Fiber|Sticks|Wood|    Nails| Misc. |
+|:-:|:---------------------------|----:|-----:|---:|--------:|:------|
+| ? |Rustic 2-Seater Couch       |  30 |   20 | -- |      -- | |
+| ? |Rustic 3-Seater Couch       |  50 |   30 | -- |      -- | |
+|n/a|Rustic 6-Seater Table       |  -- |   -- | -- |      -- | MISSING, closest is Large Table |
+|n/a|Rustic 10-Seater Table      |  -- |   -- | -- |      -- | MISSING, use Large Table |
+| ? |Rustic Armchair             |  20 |   15 | -- |      -- | |
+| ? |Rustic Bed                  |  -- |   -- | 20 |  10 Iron| 30 Fur, 10 Leather |
+| ? |Rustic Bookshelf            |  -- |   -- | 25 |  10 Iron| |
+| ? |Rustic Cabinet              |  -- |   -- | 30 |  20 Iron| |
+| ? |Rustic Candles              |  -- |    2 | -- |       --| 1 Animal Fat |
+| ? |Rustic Candles              |  -- |    2 | -- |       --| 2 Beeswax    |
+| ? |Rustic Cofee Table          |  10 |   10 |  2 |       --| |
+| ? |Rustic Dining Chair         |  10 |   10 |  5 |       --| |
+| ? |Rustic Dresser              |  -- |   -- | 30 |  15 Iron| |
+| ? |Rustic Lamp                 |  -- |   -- | -- |10 Copper| 2 Electronics, 5 Glass, 20 Refined Wood |
+| ? |Rustic Large Table          |  -- |   60 | 80 |  20 Iron| |
+| ? |Rustic Narrow Wardrobe      |  -- |   -- | 30 |  15 Iron| |
+| ? |Rustic Nightstand           |  -- |    5 | 15 |   5 Iron| |
+| ? |Rustic Pot                  |  20 |   10 | -- |      -- | 5 Sulfur |
+| ? |Rustic Round Table          |  -- |   20 | 20 |  10 Iron| |
+| ? |Rustic Sitting Bench        |  -- |   20 | 10 |   8 Iron| |
+| ? |Rustic Stool                |  -- |   15 |  5 |      -- | |
+| ? |Rustic Table                |  -- |   20 | 20 |  10 Iron| |
+| ? |Rustic Wallshelf            |  -- |   -- | 10 |  15 Iron| |
+| ? |Rustic Wardrobe             |  -- |   -- | 30 |  15 Iron| |
+
+## Decoration Bench (Art Deco)
+|Lev|Recipe                      |Gold Wire|Platinum Weave|Refined Gold|Stone| Misc. |
+|:-:|:---------------------------|--------:|-------------:|-----------:|----:|:------|
+| ? |Art Deco 2-Seater Couch     |      -- |            4 |          4 |  -- |                 |
+| ? |Art Deco 3-Seater Couch     |      -- |            5 |          6 |  -- |                 |
+| ? |Art Deco 6-Seater Table     |      -- |           -- |          6 |  40 |                 |
+| ? |Art Deco 10-Seater Table    |      -- |           -- |         10 |  60 |                 |
+| ? |Art Deco Bed                |      -- |            6 |          8 |  20 |                 |
+| ? |Art Deco Bookshelf          |      -- |            6 |         -- |  40 |                 |
+| ? |Art Deco Candlestick        |      -- |           -- |          6 |  -- |  4 Animal Fat   |
+| ? |Art Deco Candlestick        |      -- |           -- |          6 |  -- |  4 Beeswax      |
+| ? |Art Deco Chandelier         |      20 |           -- |          8 |  16 | 20 Glass        |
+| ? |Art Deco Coffee Table       |      -- |           -- |         -- |  -- | MISSING, use Round Table instead. |
+| ? |Art Deco Dining Char        |      -- |            2 |          3 |  -- |                 |
+| ? |Art Deco Dresser            |      -- |           -- |          4 |  40 |                 |
+| ? |Art Deco Fireplace          |      -- |           -- |         10 | 160 | 20 Wood         |
+| ? |Art Deco Fireplace Cap      |      -- |           -- |          2 |  60 |                 |
+| ? |Art Deco Fireplace Extension|      -- |           -- |          4 |  50 |                 |
+| ? |Art Deco Floor Lamp         |       4 |           -- |          6 |  10 |  4 Glass        |
+| ? |Art Deco Lounge Chair       |      -- |            2 |          3 |  -- |                 |
+| ? |Art Deco Nightstand         |      -- |           -- |          4 |  20 |                 |
+| ? |Art Deco Partition          |      -- |           -- |          4 |  24 |                 |
+| ? |Art Deco Round Table        |      -- |           -- |          4 |  40 |                 |
+| ? |Art Deco Rug                |       8 |           12 |          2 |  -- |                 |
+| ? |Art Deco Safe               |       4 |           -- |          6 |  20 | 14 Steel Ingots |
+| ? |Art Deco Sitting Bench      |      -- |            4 |          3 |  -- |                 | 
+| ? |Art Deco Vase               |      -- |           -- |          2 |  14 |                 |
+| ? |Art Deco Vault              |       4 |           -- |          6 |  20 | 20 Steel Ingot  |
+| ? |Art Deco Wall Light         |       4 |           -- |          2 |   6 |  2 Glass        |
+| ? |Art Deco Wall Shelf         |      -- |           -- |          4 |  20 |  6 Steel Screws |
+| ? |Art Deco Wall Sign          |      -- |           -- |          2 |  18 |                 |
+| ? |Art Deco Wardrobe           |      -- |           -- |          6 |  40 |                 |
+
+## Decoration Bench (Statues)
+
+|Lev|Recipe                      |Condensed Enzymes|Copper Ingots|Wood|Refined Gold| Misc. |
+|:-:|:---------------------------|----------------:|------------:|---:|-----------:|:------|
+| ? |Bronze Alpha Sandworm Statue|               1 |          15 | -- |         10 | |
+| ? |Bronze Bear Statue          |               1 |           5 | -- |         -- | |
+| ? |Bronze Cougar Statue        |               1 |           5 | -- |         -- | |
+| ? |Bronze Elephant Statue      |               1 |           5 | -- |         -- | |
+| ? |Bronze Hyena Statue         |               1 |           5 | -- |         -- | |
+| ? |Bronze Jaguar Statue        |               1 |           5 | -- |         -- | |
+| ? |Bronze Polar Bear Statue    |               1 |           5 | -- |         -- | |
+| ? |Bronze Scorpian Statue      |               1 |           5 | -- |         -- | |
+| ? |Bronze Snow Leopard Statue  |               1 |           5 | -- |         -- | |
+| ? |Rustic Icarus Statue        |              -- |           5 | -- |         -- | 5 Iron Ingots |
+| ? |Stationeers Bobblehead      |               1 |          -- | -- |         10 |10 Iron Ingots, 20 Oxite |
+| ? |Wood Buffalo Statue         |               1 |          -- | 35 |         -- | |
+| ? |Wood Deer Statue            |               1 |          -- | 10 |         -- | |
+| ? |Wood Piranha Statue         |               1 |          -- | 25 |         -- | |
+| ? |Wood Rabbit Statue          |               1 |          -- | 25 |         -- | |
+
 # [Fabricator](https://icarus.fandom.com/wiki/Fabricator)
 
 # [Machining Bench](https://icarus.fandom.com/wiki/Machining_Bench) (sans Guns & Ammo)
