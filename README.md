@@ -345,7 +345,7 @@
 | ? |One-Shot Pistol               |20 Iron Ingots     | --  |10 Copper Nail, 15 Leather, 6 Refined Wood, 4 Tree Sap|
 | ? |Rusty Shotgun                 |10 Steel Ingots    | --  |10 Leather, 10 Tree Sap, 15 Wood                      |
 | ? |Semi-Automatic Pistol         |20 Steel Ingots    |  4  | 5 Cured Leather, 6 Refined Wood, 8 Steel Screw       |
-| ? |Shotgun                       |26 Steel Ingots    |  4  | 1 Cured Leather, 12 Refind Wood, 10 Steel Screw      |
+| ? |Shotgun                       |26 Steel Ingots    |  4  | 1 Cured Leather, 12 Refined Wood, 10 Steel Screw      |
 |Lev|Recipe                        | Ingot(s)          |Epoxy|Misc.                                                 |
 
 # [Mortar and Pestle](https://icarus.fandom.com/wiki/Mortar_and_Pestle)
