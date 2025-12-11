@@ -472,7 +472,7 @@
 
 # Workshop (Research)
 
-To unlock everything in the Workshop you need to spend:
+To unlock all research in the Workshop you need to spend:
 
 | Category  |   Ren|Exotics|Stabilized| Biomass|
 |:----------|-----:|------:|---------:|-------:|
